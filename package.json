@@ -1,0 +1,19 @@
+{
+  "name": "calculadora_tdd",
+  "version": "1.0.0",
+  "description": "Estudos de TDD utilizando js e modulo assert",
+  "main": "calculadoraDeDoisNumerosTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsoares/CalculadoraTDD.git"
+  },
+  "author": "André",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsoares/CalculadoraTDD/issues"
+  },
+  "homepage": "https://github.com/alsoares/CalculadoraTDD#readme"
+}
